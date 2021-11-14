@@ -1,5 +1,6 @@
 # Challenge-01
-Repository for bootcamp Challenge 1
+
+This repository is for Challenge 1 for a full-stack web developer bootcamp. We were given HTML and CSS code to a basic website and were tasked with making the necessary adjustments to meet the acceptance criteria below:
 
 Acceptance criteria:
 
@@ -18,3 +19,6 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+
+Link to screenshot of completed site: [https://i.imgur.com/qi0iLAE.png]
